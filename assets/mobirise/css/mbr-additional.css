@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+
+
+
+
+#header1-c H1 {
+  color: #edafae;
+  font-family: 'Oswald', sans-serif;
+}
+#header1-c P {
+  color: #d8d4d1;
+}
+#features1-a H4 {
+  font-family: 'Open Sans', sans-serif;
+}
+#features1-a P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#social-buttons2-b .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
